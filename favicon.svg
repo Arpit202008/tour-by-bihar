@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Minimal geometric representation of Bihar's map shape -->
+  <path d="M120,200 L180,160 L240,150 L320,180 L380,170 L420,240 L400,320 L350,380 L280,390 L200,370 L140,320 L100,260 Z" 
+        fill="#3b82f6" 
+        stroke="#1d4ed8" 
+        stroke-width="15" 
+        stroke-linejoin="round" />
+  <circle cx="230" cy="270" r="25" fill="#facc15" />
+</svg>
